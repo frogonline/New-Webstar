@@ -1,0 +1,274 @@
+.box-8 .arrow {
+	border-color: transparent transparent transparent #deebed
+}
+.side-menu .active {
+	color: #04CDAE
+} 
+.side-menu a:hover {
+	color: #04CDAE
+}
+header .navbar-nav > li.active > .dropdown > a, header .navbar-nav > li.active > a {
+	color: #04CDAE
+}
+header .menu-5.navbar-nav > li > a:after, header .menu-5.navbar-nav > li > .dropdown > a:after {
+	color: #04CDAE
+}
+header .navbar-nav a.active, header .navbar-nav .uber-menu a.active {
+	color: #04CDAE
+}
+header .navbar-nav .uber-menu a:hover {
+	color: #04CDAE
+}
+header .menu-2 li.active a span {
+	color: #04CDAE
+}
+header .menu-3 li.active a:after {
+	background: #04CDAE
+}
+header .menu-3 li:hover > .dropdown > a:after, header .menu-3 li:hover > a:after, header .menu-3 li:hover > .dropdown > a:after {
+	background: #04CDAE
+}
+header .menu-3 .navbar-nav > li:hover > a:after {
+	background: #04CDAE
+}
+header .menu-4 li.active {
+	/*border-bottom: 2px solid #04CDAE*/
+}
+header.custom-4 .navbar-header a {
+	background: #04CDAE
+}
+header.custom-4 .navbar-nav > li {
+	background: #04CDAE
+}
+header .dropdown li a.active {
+	color: #04CDAE
+}
+header .dropdown li:hover {
+	color: #04CDAE
+}
+header .dropdown li.menu-parent > a:after {
+	color: #04CDAE
+}
+header.head-1 .menu-bar .utilities-buttons a:hover, header.custom-1 .utilities-buttons a:hover {
+	color: #04CDAE
+}
+.tparrows:hover {
+	background-color: #04CDAE;
+	border-radius: 4px
+}
+.main-menu a.active {
+	background: #04CDAE;
+	color: #fff
+}
+.main-menu a:hover {
+	background: #04CDAE;
+	color: #fff
+}
+.main-menu button {
+	color: #04CDAE;
+	background: #fff
+}
+#search button.btn.btn-default {
+	background: #04CDAE
+}
+#search ul.dropdown-menu > li > a:hover {
+	color: #04CDAE
+}
+header.custom-1.navbar-fixed-top {
+	background: #04CDAE
+}
+header.custom-1 .menu-cont {
+}
+header.custom-2 .navbar-nav a.v-al-container i {
+	color: #04CDAE
+}
+header.custom-5 .navbar-nav > li > a {
+	background: #04CDAE;
+	color: #fff
+}
+header.custom-5 .navbar-nav > li > a:hover {
+	background: #04CDAE
+}
+header.custom-3 .navbar-nav a.v-al-container i {
+	color: #04CDAE;
+	border: 1px solid #04CDAE
+}
+ul.basic.minus li:before {
+	color: #04CDAE
+}
+.shop-panel .cart-list .line .icon a:hover {
+	color: #04CDAE
+}
+.calendar .day.current {
+	background-color: #04CDAE
+}
+.calendar .day.event .number {
+	color: #04CDAE
+}
+.calendar .day.event .time {
+	color: #04CDAE
+}
+.calendar .day:hover {
+	background: #04CDAE
+}
+.calendar .navigator a:hover {
+	color: #04CDAE
+}
+.button-link.blue {
+	border-color: #04CDAE;
+	color: #04CDAE
+}
+.socials a:hover {
+	color: #fff;
+	background: #04CDAE
+}
+.breadcrumb > .active {
+	color: #04CDAE
+}
+.breadcrumb a:hover {
+	color: #04CDAE
+}
+.breadcrumb.accordion-filter li:hover {
+	color: #04CDAE
+}
+.preview.gallery .navigation .control:hover {
+	color: #04CDAE
+}
+.table.pricing.highlight .price {
+	background: #04CDAE;
+	color: #fff
+}
+.portfolio-isotope-filters li:hover a {
+	color: #04CDAE
+}
+.blog-wrapper .page-nav .pages .page:hover, .forum .page-nav .pages .page:hover {
+	background: #04CDAE
+}
+.blog-wrapper .page-nav .pages .page.active, .forum .page-nav .pages .page.active {
+	background: #04CDAE
+}
+.blog-wrapper .stats i.fa-heart:hover, .blog-wrapper .stats i.fa-share:hover {
+	color: #04CDAE
+}
+.sidebar .tweet-box a {
+	color: #04CDAE
+}
+.advertising .variants .element .inside:hover {
+	background: #04CDAE
+}
+.modal-header .close {
+	background: #04CDAE
+}
+.blog-wrapper.grid .bot .stats a:hover {
+	color: #04CDAE
+}
+.timeline .bot .stats a:hover {
+	color: #04CDAE
+}
+.blog-wrapper.personal .meta .stats > a:hover, .blog-wrapper.personal .meta .stats > i:hover {
+	color: #04CDAE
+}
+.portfolio.item .socials a {
+	background: #04CDAE;
+	color: #fff
+}
+.portfolio.item .bot a i:hover {
+	color: #04CDAE
+}
+.single .sg-controls a:hover .preview {
+	background: #04CDAE
+}
+.single .sg-controls a:hover i {
+	background: #04CDAE
+}
+.portfolio.full .controls a:hover {
+	background: #04CDAE
+}
+.testimonials-1 + .carousel-indicators .active {
+	background: #04CDAE
+}
+.testimonials-1 + .carousel-indicators .item:hover {
+	background: #04CDAE
+}
+.boxes-4 ul li:before {
+	color: #04CDAE
+}
+.box-8.highlight {
+	background: #04CDAE
+}
+#botbar .socials a:hover {
+	background: #04CDAE;
+	color: #fff
+}
+#totop:hover {
+	background: #04CDAE
+}
+.post-tab-widget ul li a:hover {
+	color: #04CDAE
+}
+.post-tab-widget ul li.active {
+	color: #04CDAE
+}
+.post-tab-widget .tab-pane .post:hover {
+	background: #04CDAE;
+	color: #fff
+}
+.comments-widget .comment:hover {
+	color: #fff;
+	background: #04CDAE
+}
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #04CDAE
+}
+::-webkit-scrollbar-thumb {
+border-radius:4px;
+background-color:#04CDAE;
+color:#fff
+}
+.divider.divider-2:before {
+	background-color: #04CDAE
+}
+.input-group .input-group-btn .btn {
+	border-color: #e1e1e1;
+	background-color: #04CDAE
+}
+header.head-2 .menu-bar .utilities-buttons, header .top-bar .utilities-buttons {
+	color: #04CDAE
+}
+.lang.dropdown-menu a:hover {
+	color: #04CDAE
+}
+.carousel .controls a:hover {
+	background: #04CDAE;
+-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100)
+}
+.shop-panel .cart-list .line .icon a:hover {
+	color: #04CDAE
+}
+.button.solid.blue {
+}
+.button.solid.alt-color {
+	background-color: #fff;
+	color: #04CDAE
+}
+.button.striped.blue {
+	border-color: #04CDAE;
+	color: #04CDAE
+}
+.blog-wrapper.single .comment .reply:hover {
+	color: #04CDAE
+}
+.main-bg-color {
+	background-color: #04CDAE
+}
+.box-8.highlight .arrow {
+	border-color: transparent transparent transparent #04CDAE
+}
+.calendar-widget .week .day {
+	border-left: 1px solid #e1e1e1;
+	min-height: 38px;
+	color: #04CDAE
+}
+#options-panel .side-menu .element .submenu.boxes .element.color-3 {
+	background: #04CDAE
+}

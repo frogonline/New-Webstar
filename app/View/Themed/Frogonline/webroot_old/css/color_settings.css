@@ -1,0 +1,551 @@
+﻿.control_body {
+	color: #000000;
+}
+a {
+	color: #17353e;
+}
+a:hover {
+	color: #17353e;
+}
+.socials a:hover {
+	background: #E4791F!important;
+	color: #FFFFFF;
+}
+.magnify_glass {
+	color: #ffffff;
+}
+.carousel .controls a:hover {
+	background: #da6927!important;
+}
+.portfolio.full .controls a:hover {
+	background: #da6927!important;
+}
+/*.button.solid .over:hover {
+
+	background: #da6927!important;
+
+}*/
+
+.addcart_btn_backgound:hover {
+	background: #da6927!important;
+}
+.addwishlist_btn_backgound:hover {
+	background: #da6927!important;
+}
+.send_btn_backgound_clr:hover {
+	background: #da6927!important;
+}
+.button.striped.md:hover {
+	background: #f48020 !important;
+}
+.btn.btn-primary.brown-bg:hover {
+	background: #da6927!important;
+}
+.contactbutton_backgound .contact_button:hover {
+	color: #ffffff!important;
+}
+.over.ecombox_addtocart:hover {
+	color: #ffffff!important;
+}
+.over:hover {
+	color: #ffffff!important;
+}
+.send_btn_backgound_clr:hover {
+	color: #ffffff!important;
+}
+.addwishlist_btn_txt_clr:hover {
+	color: #ffffff!important;
+}
+.addcart_btn_backgound:hover {
+	color: #ffffff!important;
+}
+.addwishlist_btn_backgound:hover {
+	color: #ffffff!important;
+}
+.button.striped.md:hover {
+	color: #ffffff!important;
+}
+.btn.btn-primary.brown-bg:hover {
+	color: #ffffff!important;
+}
+.control_body {
+	font-size: 14px;
+}
+.control_body_background-color {
+	background-color: #FFFFFF;
+}
+.headertop_backgound {
+	background: #da6927;
+}
+.headertop_control {
+	color: #ffffff;
+}
+.headertop_control {
+	font-size: 14px;
+}
+.headerbutton_backgound {
+	background: #ffffff;
+}
+#navbar-collapse-1 {
+	background: #f5f5f5;
+}
+.menu_control {
+	color: #0f172a;
+}
+.menu_control {
+	font-size: 14px;
+}
+header .dropdown-menu li a {
+	background: #f5f5f5;
+}
+header .dropdown-menu li a:hover {
+	color: #ffffff;
+}
+#navbar-collapse-1 li a:hover {
+	color: #ffffff;
+}
+header .menu_control li.active a:hover {
+	color: #ffffff!important;
+}
+header .dropdown-menu li a:hover {
+	background: #da6927;
+}
+#navbar-collapse-1 li a:hover {
+	background: #da6927;
+}
+header .menu_control li.active a:hover {
+	background: #da6927!important;
+}
+header .dropdown-menu li a {
+	color: #da6927;
+}
+header .menu_control li.active a {
+	background: #f48020;
+}
+dropdown closed active menu_control {
+	color: #ffffff;
+}
+header .menu_control li.active .boldc {
+	color: #ffffff;
+}
+.dropdown-menu > .active > a {
+	color: #ffffff;
+}
+header .menu_control li.active a {
+	color: #ffffff;
+}
+.bedcrumb_backgound {
+	background: #ffffff;
+}
+.bedcrumbleft_control {
+	color: #086eb2;
+}
+.bedcrumbleft_control {
+	font-size: 11px;
+}
+.bedcrumbright_control {
+	color: #086eb2;
+}
+.bedcrumbright_control {
+	font-size: 11px;
+}
+.submenu_leftsearch_backgound {
+	background: #ffffff!important;
+}
+.submenu_rightsearch_backgound {
+	background: #da6927!important;
+}
+.searchdrop_control {
+	color: #000000;
+}
+.searchdrop_control {
+	font-size: 15px;
+}
+.submenu_searchcon {
+	background: #da6927!important;
+}
+.fottertop_backgound {
+	background: #1d1d1d;
+}
+.fotterbutton_backgound {
+	background: #141414;
+}
+.fottertop_control {
+	color: #da6927;
+}
+.fottertop_control {
+	font-size: 18px;
+}
+.fotterbutton_control {
+	color: #000000;
+}
+.control_des {
+	color: #10306e;
+}
+.control_title {
+	color: #10306e;
+}
+.accordion_head {
+	color: #cb1515;
+}
+.accordion_des {
+	color: #10306e;
+}
+.imagebox_button {
+	color: #ef685a;
+}
+.scb_header {
+	color: #9b24ec;
+}
+.scb_header {
+	font-size: 28px;
+}
+.scb_title {
+	color: #9b24ec;
+}
+.scb_title {
+	font-size: 25px;
+}
+.scb_des {
+	color: #EF685A;
+}
+.scb_des {
+	font-size: 30px;
+}
+.scb_button {
+	color: #18335c;
+}
+.scb_button {
+	font-size: 18px;
+}
+.scbone_backgound {
+	background: #9b24ec;
+}
+/*.scbtwo_backgound {
+
+	background: #3cf917;
+
+}*/
+
+.button.striped.alt-color.md.scb_button.scbone_backgound.submenu_scbone_overtext_color:hover {
+	color: #fff !important;
+}
+.testimonial_text {
+	color: #ef685a;
+}
+.testimonial_text {
+	font-size: 25px;
+}
+.testimonials-2 .item .text:before {
+	border-color: #e6e6e6 transparent transparent;
+}
+.testimonial_background-color {
+	background-image: url(http://smallbizloans.com.au/img/uploads/testimonials.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+.calloutheader_title {
+	color: #EF685A;
+}
+.calloutheader_title {
+	font-size: 28px;
+}
+.calloutdes_content {
+	color: #ffffff;
+}
+.calloutdes_content {
+	font-size: 10px;
+}
+.callout_backgound {
+	background: #73A6D9;
+}
+.callout_button {
+	color: #000000;
+}
+.callout_button {
+	font-size: 19px;
+}
+.calloutbutton_backgound {
+	background: #EF685A;
+}
+.list_header {
+	color: #0c0a0a;
+}
+.list_header {
+	font-size: 11px;
+}
+.list_content {
+	font-size: 14px;
+}
+.listicon_color {
+	color: #086eb2;
+}
+.listicon_backgound {
+	background: #086eb2;
+}
+.box_header {
+	color: #ffffff;
+}
+.box_header {
+	font-size: 14px;
+}
+.box_title {
+	color: #ffffff;
+}
+.box_title {
+	font-size: 16px;
+}
+.box_content {
+	color: #fff;
+}
+.box_content {
+	font-size: 14px;
+}
+.boxicon_backgound {
+	background: #da6927;
+}
+.boxicon_text {
+	color: #ffffff;
+}
+.box_backgound {
+	background: #da6927;
+}
+.box_backgound:hover {
+	background-color: #da6927;
+}
+.boxicon_text:hover {
+	background-color: #da6927;
+	transform: rotate3d(0, 1, 0, 180deg);
+}
+.column_header {
+	color: #1f00ff;
+}
+.column_header {
+	font-size: 28px;
+}
+.column_content {
+	color: #10306e;
+}
+.column_content {
+	font-size: 15px;
+}
+.contact_backgound {
+	background: #e6e6e6;
+}
+.contact_header {
+	color: #d96824;
+}
+.contact_header {
+	font-size: 25px;
+}
+.contact_button {
+	color: #ffffff;
+}
+.contact_button {
+	font-size: 21px;
+}
+.contactbutton_backgound {
+	background: #d96824;
+}
+.portfolio_category {
+	color: #00ffa6;
+}
+.portfolio_category {
+	font-size: 15px;
+}
+.portfolio_title {
+	color: #ec0d0d;
+}
+.portfolio_title {
+	font-size: 27px;
+}
+.tab_title {
+	color: #54b738;
+}
+.tab_title {
+	font-size: 14px;
+}
+.tab_name {
+	color: #090808;
+}
+.tab_name {
+	font-size: 14px;
+}
+.tab_content {
+	font-size: 14px;
+}
+.tab.left ul li.ui-state-active {
+	background: #e6e6e6;
+}
+.tab.right ul li.ui-state-active {
+	background: #e6e6e6;
+}
+.tab.def ul li.ui-state-active h6 {
+	color: #e6e6e6;
+}
+.tab.tabs-bottom ul li.ui-state-active h6 {
+	color: #e6e6e6;
+}
+.tabcontent_backgound {
+	background: #e6e6e6;
+}
+.tabname_backgound {
+	background: #086eb2;
+}
+.ecombox1_backgound {
+	background: #fff;
+}
+.shop-col-item .rating {
+	color: #da6927;
+}
+.ecombox_pname {
+	color: #da6927;
+}
+.ecombox_pprice {
+	color: #17353e;
+}
+.ecombox_addtocart {
+	color: #17353e;
+}
+.ecombox_moredetails {
+	color: #0c394a;
+}
+.ecombox_load_backgound {
+	background: #da6927;
+}
+.ecombox_loadmore {
+	color: #ffffff;
+}
+.ecombox_reproducttext {
+	color: #0c394a;
+}
+.ecombox_recent_backgound {
+	background: #b9dce2;
+}
+a.list-group-item:hover, a.list-group-item:focus {
+	background-color: #f9943e!important;
+}
+.ecombox_reproduct_name {
+	color: #0c394a;
+}
+.ecombox_reproduct_price {
+	color: #0c394a;
+}
+.product-wrap .controls .button.ctrl {
+	background: #da6927;
+}
+.button.grey.solid.ctrl {
+	background: #da6927;
+}
+.button.striped.blue {
+	background: #da6927;
+}
+.addcart_btn_backgound {
+	background: #da6927;
+}
+.addwishlist_btn_backgound {
+	background: #da6927;
+}
+.button.striped.blue {
+	color: #17353e;
+}
+.addwishlist_btn_txt_clr {
+	color: #17353e;
+}
+.review_txt_clr {
+	color: #0c7082;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+	background-color: #009bb7;
+}
+.send_btn_backgound_clr {
+	background: #009bb7;
+}
+.stock_txt_clr {
+	color: #110f0f;
+}
+.product_describe_txt_clr {
+	color: #0c7082;
+}
+.tab ul li.ui-state-active h6 {
+	color: #17353e!important;
+}
+.vtl-navigation ul li {
+	background: #000000
+}
+.vtl-navigation a {
+	color: #a6ce39;
+}
+.vtl-navigation a:hover {
+	background: #5F9DD4;
+}
+.vtl-navigation a:hover {
+	color: #000000;
+}
+.revolutionhead {
+	font-family: 'Poppins', sans-serif!important;
+	font-size: 50px!important;
+	line-height: 55px!important;
+	font-weight: normal!important;
+	font-style: normal!important;
+	color: #ffffff!important;
+}
+.revolutiondes {
+	font-family: 'Poppins', sans-serif!important;
+	font-size: 22px!important;
+	font-weight: normal!important;
+	font-style: normal!important;
+	color: #ffffff!important;
+	line-height:30px;
+}
+.revolution_backgound {
+	background: #ffc100;
+}
+.revolutionbutton {
+	color: #020202;
+}
+.overlay:hover {
+	background: #f48020;
+}
+.overlay:hover {
+	opacity: 0.75;
+}
+.table.pricing, .table .field {
+	border: 1px solid #BECAD5;
+}
+.table.pricing .head {
+	border-bottom: 1px solid #BECAD5;
+	background: #BECAD5;
+}
+.table.pricing div:nth-child(2n+0) {
+	background: #BECAD5;
+}
+.pricetable_txt_clr {
+	color: #af0202;
+}
+.pricetable_btn_background-color {
+	background-color: #ff5700;
+}
+.pricetable_btn_txt_clr {
+	color: #08ec96;
+}
+.head.main-bg-color.alt-text-color.bold.clearfix {
+	background: #da6927!important;
+}
+.head.main-bg-color.alt-text-color {
+	background: #da6927!important;
+}
+.btn.btn-primary.brown-bg {
+	background: #da6927!important;
+}
+.head.main-bg-color.alt-text-color.bold.clearfix {
+	color: #FFFFFF!important;
+}
+.head.main-bg-color.alt-text-color {
+	color: #FFFFFF!important;
+}
+.btn.btn-primary.brown-bg {
+	color: #FFFFFF!important;
+}

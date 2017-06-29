@@ -1,0 +1,71 @@
+<?php
+class TemplateHelper extends AppHelper {
+	var $helpers = array('Cache','Html','Session','Form','Paginator');
+	
+	public function getTotalCol($arr){
+		$total = 0;
+		if(!empty($arr)){
+			foreach($arr as $item){
+				$total += (int)$item['column'];
+			}
+		}
+		return $total;
+	}
+	
+	public function totalCol($id,$template_id) {
+        App::import('Model', 'PageTemplateRow');
+		$PageTemplateRow = new PageTemplateRow();
+		
+		
+		$PageTemplateRow->bindModel(array(
+									'hasMany' => array(
+										'PageTemplateRowsColumn' => array(
+												'className'    => 'PageTemplateRowsColumn',
+												'foreignKey'   => 'row_id'
+											),
+									)
+								));
+			
+		$data_template 	= $PageTemplateRow->findAllByIdAndTemplateId($id,$template_id);
+		
+		
+		$counters=0;
+		if(!empty($data_template))	
+		{
+			foreach($data_template as $template_row)
+			{
+				foreach($template_row['PageTemplateRowsColumn'] as $columns)
+				{
+					$counters = $counters + $columns['column'];
+				}
+			}
+		}
+		
+		return $counters;
+    }
+	
+	
+	
+	public function shortcodelink($shortcode) {
+        App::import('Model', 'Shortcode');
+		$Shortcode = new Shortcode();
+		
+		$shortcode = trim($shortcode, '[');
+		$shortcode = trim($shortcode, ']');
+		
+		$shortcode_arr = explode("-",$shortcode);
+		
+		$data_shortcode 	= $Shortcode->findByWidgetIdAndName($shortcode_arr[1],$shortcode_arr[0]);
+		
+		if(!empty($data_shortcode))
+		{
+			$link = SITE_URL.'admin/'.$data_shortcode['Shortcode']['controller'].'/'.$data_shortcode['Shortcode']['action'].'/'.$data_shortcode['Shortcode']['widget_id'];
+		}
+		else
+		{
+			$link = '#';
+		}
+		return $link;
+    }
+}
+?>

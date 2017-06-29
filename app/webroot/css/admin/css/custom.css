@@ -1,0 +1,171 @@
+/* here you can put your own css to customize and override the theme */
+.fileUpload {
+	position: relative;
+	overflow: hidden;
+	margin: 10px;
+}
+.fileUpload input.upload {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+/*======================== Pagination ====================*/
+
+.holder a.jp-previous
+{
+	position: relative;
+	float: left;
+	padding: 6px 12px;
+	line-height: 1.42857143;
+	text-decoration: none;
+	color: #428bca;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin-left: -1px;
+	cursor:pointer
+}
+.holder a
+{
+	position: relative;
+	float: left;
+	padding: 6px 12px;
+	line-height: 1.42857143;
+	text-decoration: none;
+	color: #428bca;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin-left: -1px;
+	cursor:pointer
+}
+.holder a.jp-current
+{
+	background: #eee;
+	border-color: #dddddd;
+	color: #333;
+	cursor:pointer
+}
+.holder a.jp-next
+{
+	position: relative;
+	float: left;
+	padding: 6px 12px;
+	line-height: 1.42857143;
+	text-decoration: none;
+	color: #428bca;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin-left: -1px;
+	cursor:pointer
+}
+.holder a:hover
+{
+	background: #eee;
+	border-color: #dddddd;
+	color: #333;
+	cursor:pointer
+}
+
+/* .prev, .next { width:29px; height:29px; position: absolute; top: -95px; cursor: pointer; }
+  .prev { background-image: url('../img/previous.png'); left: -40px; }
+  .next { background-image: url('../img/next.png'); right: -40px; } */
+  
+ /******* SUvojit Seal *********/
+ .sorting_both{ 
+	background:url("../images/sort_both.png") no-repeat scroll right center rgba(0, 0, 0, 0); 
+	padding:10px 20px;
+	}
+.sorting_both:hover{
+	 text-decoration:none;
+}
+.sorting_both.asc{
+	background:url("../images/sort_asc.png") no-repeat scroll right center rgba(0, 0, 0, 0);
+	padding:10px 20px;
+	}
+.sorting_both.desc{
+	background:url("../images/sort_desc.png") no-repeat scroll right center rgba(0, 0, 0, 0);
+	padding:10px 20px;
+	}
+.alert{cursor:pointer;}
+.row-status-active{color:#35AA47; }
+.row-status-active:hover{color:#35AA47; }
+.row-status-inactive{color:#D64635; }
+.row-status-inactive:hover{color:#D64635; }
+
+/************ Nestable Menu *************/
+.vscroll{width:100%; overflow-y:scroll; height:200px;}
+.item_delete {
+    border: 1px solid;
+    border-radius: 10px;
+    bottom: 30px;
+    float: right;
+    left: 25px;
+    padding: 0 6px;
+    position: relative;
+}
+
+.item_status {
+    border: 1px solid;
+    border-radius: 10px;
+    bottom: 30px;
+    float: right;
+    left: 60px;
+    padding: 0 6px;
+    position: relative;
+}
+
+.red {
+    color: #ff0000;
+}
+
+.green {
+    color: #0F9D58;
+}
+.item_edit {    
+	border: 1px solid;
+    border-radius: 10px;
+    left: 520px;
+    padding: 0 6px;
+    position: absolute;
+    top: 5px;
+}
+
+.item_update {    
+	border: 1px solid;
+    border-radius: 10px;
+    left: 675px;
+    padding: 0 6px;
+    position: absolute;
+    top: 5px;
+}
+.radio {
+    margin: 0 0 10px !important;
+}
+
+.sidebar_item_edit {
+    border: 1px solid;
+    border-radius: 10px;
+    bottom: 30px;
+    float: right;
+    left: 40px;
+    padding: 0 6px;
+    position: relative;
+}
+/*---autocomplete---*/
+.autocomplete-suggestion{
+border:1px solid  #e5e5e5;
+background-color:#fff;
+padding:2px;
+padding-left:12px;
+}
+.autocomplete-selected{
+background-color: #e5e5e5;
+}
+.autocomplete-suggestion:hover{
+cursor:pointer;
+}

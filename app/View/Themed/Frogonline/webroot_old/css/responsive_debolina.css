@@ -1,0 +1,329 @@
+@media screen and(max - width: 1600 px) {.full - portfolio.item - wrap {
+        width: 20 %
+    }
+}
+@media screen and(max - width: 1199 px) {.side - menu.pinned {
+        width: 213 px
+    }.boxed header.shadow {
+        width: 100 % ;left: initial;margin - left: initial
+    }#
+    main {
+        width: auto
+    }.full - portfolio.item - wrap {
+        width: 25 %
+    }.shop - promo.title {
+        padding: 10 px 0
+    }.shop - promo.button {
+        margin: 20 px 0 10 px
+    }.shop - promo h3 {
+        margin: 10 px 0
+    }.shop - col - item.rating {
+        font - size: 15 px
+    }.preview.gallery.thumb {
+        width: auto
+    }.fancy - portfolio.sided.item.wrap {
+        width: 50 %
+    }
+    header.uber - menu li a {
+        padding: 0
+    }.mason - el, .mason - el.height2 {
+        width: 234 px
+    }.mason - el.width2 {
+        width: 469 px
+    }.wht - bnr p {
+        background - size: 20 %
+    }
+}
+@media screen and(max - width: 991 px) {.side - menu.pinned {
+            position: static;width: 100 %
+        }
+        header.container {
+            position: static
+        }.to - left.md {
+            float: none
+        }.to - right.md {
+            float: none
+        }.full - portfolio.item - wrap {
+            width: 33.333333333333 %
+        }
+        header.menu - bar {
+            position: static
+        }.fancy - portfolio.col - 4.item.wrap {
+            width: 50 %
+        }.cart - list.line.mini - image {
+            width: auto
+        }.cart - list.line.name {
+            padding - left: 20 px
+        }.shop - panel.cart - list.line.total {
+            width: 15 % ;padding - right: 0;text - align: right
+        }.cart - list.head.section.product {
+            padding - left: 20 px;
+            text - align: left
+        }.cart - list.head.section.prc {
+            padding - right: 0;
+            text - align: right;
+            width: 15 %
+        }.cart - list.head.section.qty {
+            padding - right: 0;
+            text - align: center;
+            width: 25 %
+        }.shop - panel.cart - list.head.total {
+            width: 15 % ;padding - right: 0;text - align: right
+        }.post - acc.element {
+            padding - top: 15 px;
+            padding - bottom: 15 px
+        }.vis - 1000 {
+            display: block
+        }.hid - 1000 {
+            display: none
+        }.mobile - header {
+            display: block
+        }.large - header {
+            display: none
+        }
+        header nav {
+            position: relative
+        }
+        header.head - 1.menu - bar.utilities - buttons, header.custom - 2.menu - bar.utilities - buttons, header.custom - 3.menu - bar.utilities - buttons, header.custom - 4.menu - bar.utilities - buttons, header.custom - 5.menu - bar.utilities - buttons, header.head - 2.menu - bar.utilities - buttons, header.custom - 1.utilities - buttons, header.head - 1. thin.menu - bar.utilities - buttons {
+            padding: 16 px 0;padding - right: 5 px
+        }
+        header a.logo - box {
+            padding: 0;line - height: 63 px
+        }
+        header.navbar - fixed - top.utilities - buttons {
+            padding: 16 px 0;right: 15 px
+        }
+        header.head - 1.menu - bar.utilities - buttons a i, header.head - 2.menu - bar.utilities - buttons a i, header.custom - 1.utilities - buttons a i, header.custom - 2.utilities - buttons a i, header.custom - 3.utilities - buttons a i, header.custom - 4.utilities - buttons a i, header.custom - 5.utilities - buttons a i {
+            border: 1 px solid# e1e1e1;font - size: 14 px;height: 34 px;width: 34 px;border - radius: 2 px;text - align: center;font - size: 15 px;line - height: 32 px;text - indent: -2 px;margin - left: 2 px
+        }
+        header.head - 2.menu - bar.utilities - buttons a i {
+            margin - left: 5 px
+        }
+        header.head - 2.menu - bar.utilities - buttons {
+            border: none
+        }
+        header.head - 2.menu - bar.utilities - buttons a {
+            line - height: initial;
+            height: initial;
+            width: initial;
+            border: none
+        }
+        header.custom - 1 {
+            height: 66 px;background: #219fd1}header.custom-1 .menu-cont{top:0;position:static}header.custom-1 .menu-bar > .row{margin-left:0;margin-right:0}.navbar-header{float:left}.navbar-toggle{position:relative;float:right;padding:11px 9px;margin-top:16px;margin-bottom:16px;margin-right:0;background-color:transparent;background-image:none;display:inline-block;border-radius:2px}.no-shops .navbar-toggle{margin-right:0}header{padding:0}header .collapse .navbar-right{display:none}header navbar-collapse{display:block;position:relative;width:100%;float:none}header .navbar-nav > li{display:block;float:none;text-align:left;line-height:1.428571429}header .navbar-right{float:left!important;width:100%;padding-bottom:15px}header.custom-2 .navbar-header .navbar-toggle{margin-right:0}header.custom-3 .navbar-header .navbar-toggle{margin-right:0}header.custom-4 .navbar-header .navbar-toggle{margin-right:0}header.custom-4 .logo-box{height:auto;line-height:63px;max-width:none;width:auto;z-index:2000}header.custom-5 .navbar-header .navbar-toggle{margin-right:0}# nav - shop.fixed - top {
+                position: fixed;top: 67 px
+            }#
+            search.fixed - top {
+                position: fixed;top: 67 px
+            }.mason - el,
+            .mason - el.height2 {
+                width: 239 px
+            }.mason - el.width2 {
+                width: 479 px
+            }
+        }
+        @media screen and(max - width: 767 px) {.constructing.container > .row {
+                margin - bottom: 0
+            }.full - portfolio.item - wrap {
+                width: 100 % ;margin - right: 0
+            }.to - left {
+                float: none
+            }.to - right {
+                float: none
+            }#
+            section - nav {
+                display: none
+            }
+            header.navbar - right {
+                margin - right: 15 px;
+                margin - top: 15 px
+            }.uber - menu ul li {
+                width: 100 % ;border: none
+            }#
+            nav - shop.cart {
+                padding: 0
+            }#
+            partners img {
+                margin: auto
+            }#
+            footer {
+                padding: 40 px 0
+            }#
+            footer.col - sm - 3 {
+                padding: 15 px
+            }.shop - promo {
+                width: 100 %
+            }.portfolio.single.photo {
+                margin - bottom: 30 px
+            }.portfolio.single.controls {
+                display: none
+            }.fancy - portfolio.item.wrap, .fancy - portfolio.sided.item.wrap {
+                width: 100 %
+            }.fancy - portfolio.item.wrap.item {
+                width: 100 %
+            }.fancy - portfolio.col - 4.item.wrap {
+                width: 100 %
+            }.fancy - portfolio.col - 2.item.wrap {
+                width: 100 %
+            }.fancy - portfolio.sidebar.left {
+                padding - left: 7 px;
+                padding - right: 7 px
+            }.fancy - portfolio.sidebar.right {
+                padding - left: 7 px;
+                padding - right: 7 px
+            }.form - 1 {
+                overflow: hidden
+            }.form - 3.form - control {
+                margin: 0
+            }.load {
+                margin - bottom: 15 px
+            }.load.inside {
+                margin - bottom: 60 px
+            }.classic.portfolio.load {
+                margin - bottom: 0
+            }.time.load {
+                margin - top: 60 px;
+                margin - bottom: 15 px
+            }.tab.right {
+                padding - top: 5 px
+            }.box - 7 {
+                margin - bottom: 30 px
+            }#
+            botbar.socials {
+                float: left;margin - bottom: 5 px
+            }#
+            accordion - 2 {
+                margin - bottom: 40 px
+            }.post: last - child {
+                padding - bottom: 20 px
+            }.tab.right {
+                padding: 0
+            }.testimonials - 1 {
+                margin - bottom: 30 px
+            }.box - 2.item: last - child {
+                margin - bottom: 40 px
+            }.blog - wrapper.grid.element - wrap {
+                width: 100 %
+            }.blog - wrapper.blog - thumb h3 {
+                margin - top: 20 px
+            }.blog - wrapper.element {
+                margin - bottom: 30 px
+            }.blog - wrapper.inside {
+                padding - left: 0
+            }.blog - wrapper.sep - line {
+                margin - top: 30 px
+            }.timeline.element {
+                max - width: none
+            }.timeline.element.start {
+                text - align: center
+            }.timeline.element.start i {
+                padding: 15 px
+            }.blog.sidebar {
+                padding - top: 0
+            }.wrap - 404 {
+                line - height: 110 px;
+                font - size: 110 px
+            }.wrap - 404 i {
+                font - size: 90 px;
+                bottom: 5 px
+            }.alt - banner {
+                padding: 0
+            }.alt - banner.text {
+                margin - bottom: 5 px
+            }.alt - banner.btns.button {
+                margin - top: 15 px
+            }.isotope - element {
+                width: 100 %
+            }.shop - wrapper.shop - item - wrap {
+                width: 100 %
+            }.shop - wrapper.load {
+                margin - top: 15 px
+            }.constructing.main - txt {
+                margin - top: 30 px!important
+            }.constructing.logo {
+                padding - top: 60 px!important
+            }.big - subscribe input {
+                width: 100 %
+            }.big - subscribe.button {
+                width: 100 %
+            }.lg - btn - section.button.striped {
+                padding: 0 50 px
+            }.lg - btn - section.button.solid > .over {
+                padding: 0 50 px
+            }.masonry - container.isotope {
+                width: 450 px;margin: 0 auto
+            }.mason - el, .mason - el.height2 {
+                width: 224 px
+            }.mason - el.width2 {
+                width: 449 px
+            }.parteners.carousel.fade - l, .parteners.carousel.fade - r {
+                display: none
+            }#
+            shop - crsl - 2.controls {
+                display: none
+            }.panel - group.panel - heading + .panel - collapse.panel - body {
+                padding: 18 px 15 px
+            }.checkout - image img {
+                width: 60 px
+            }.mobpadtop15 {
+                padding - top: 15 px
+            }.main - el {
+                padding - top: 30 px
+            }.load.inside {
+                margin - bottom: 0
+            }#
+            footer, .main - el.sep - heading - container {
+                padding - top: 0
+            }.list - group.products + .sep - heading - container {
+                margin - top: 30 px
+            }.customize_mergbutton.button.solid.md.green, .customize_mergbutton.button.solid.md.red {
+                margin - top: 30 px
+            }.wht - bnr p {
+                background: none;padding: 0;
+            }
+			
+        }
+		 @media screen and(max - width: 640 px) {
+		 header.custom-4 .logo-box{
+			width:18%;
+			}
+		 }
+        @media screen and(max - width: 530 px) {.shop - panel.cart - list.head {
+                display: none
+            }.cart - list.head.section.prc {
+                display: none
+            }.cart - list.line.price {
+                display: none
+            }.cart - list.line.price.total {
+                display: block;padding - left: 20 px;margin: 5 px 0;width: 100 % ;text - align: left
+            }.shop - panel.cart - list.line.quantity {
+                width: 100 % ;margin: 5 px 0
+            }.shop - panel.cart - list.line.name {
+                width: 100 % ;margin: 5 px 0
+            }.shop - panel.cart - list.head.total {
+                width: 100 % ;padding - right: 0;text - align: left
+            }.shop - panel.cart - list.inputs.button {
+                width: 100 %
+            }.shop - panel.cart - list.inputs input {
+                width: 100 % ;max - width: none
+            }
+        }
+        @media screen and(max - width: 480 px) {.table.data thead td {
+                    padding: 0
+                }.table.data td {
+                    padding: 0
+                }.masonry - container.isotope {
+                    width: 290 px;margin: 0 auto
+                }.mason - el, .mason - el.height2 {
+                    width: 144 px
+                }.mason - el.width2 {
+                    width: 289 px
+                }.ui - tabs - nav.ui - helper - reset.ui - helper - clearfix.ui - widget - header.ui - corner - all li.ui - state -
+                default.ui - corner - top {
+                    padding: 0 4 px
+                }.col - sm - 12. col - md - 6. col - lg - 3 a.button.solid.blue.md {
+                    width: 100 %
+                }
+			header.custom-4 .logo-box{
+			width:22%;
+			}	
+        }
